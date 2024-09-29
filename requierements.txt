@@ -1,0 +1,8 @@
+pytorch
+numpy
+tqdm
+transformers
+sentence-transformers
+pandas
+wget
+gzip
