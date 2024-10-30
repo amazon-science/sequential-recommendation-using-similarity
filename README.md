@@ -7,7 +7,7 @@ This repository is the official implementation of the paper "SimRec: Mitigating 
 
 This includes 2 steps:
 1. Generating the dataset, by using the jupyter notebook `preprocessing_data.ipynb` that can be found in each sub-directory.
-2. Calcualting the similarity scores using the jupyter notebook [`calculate_similarity_scores.ipynb`](/data_preprocessing/calculate_similarity_scores.ipynb)
+2. Calculating the similarity scores using the jupyter notebook [`calculate_similarity_scores.ipynb`](/data_preprocessing/calculate_similarity_scores.ipynb)
 
 After you create the dataset(s) you can move to training the model.
 
