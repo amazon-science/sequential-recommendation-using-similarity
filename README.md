@@ -1,5 +1,6 @@
 # SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity
 This repository is the official implementation of the paper "SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity".
+Access the full paper here: https://www.amazon.science/publications/simrec-mitigating-the-cold-start-problem-in-sequential-recommendation-by-integrating-item-similarity 
 
 ## Datasets
 
